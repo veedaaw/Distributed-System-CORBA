@@ -1,0 +1,8 @@
+Dec 02, 2018 11:38:09 AM com.INSE.ImplINSE addUserToEnrolledUser
+INFO: Student COMPS1234 added to INSE / Database!
+Dec 02, 2018 11:38:09 AM com.INSE.ImplINSE addUserToEnrolledUser
+INFO: Student COMPS4567 added to INSE / Database!
+Dec 02, 2018 11:38:09 AM com.INSE.ImplINSE addCourse
+INFO: course INSE1111 added to fall
+Dec 02, 2018 11:38:09 AM com.INSE.ImplINSE addCourse
+INFO: course INSE2222 added to fall
